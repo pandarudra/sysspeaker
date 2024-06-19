@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mymodule",
+    name="sysspeaker",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[],  
     author="rudra_826",
     author_email="rudrapanda8206@gmail.com",
-    description="A simple example module",
+    description="A simple python package to speak out the system messages.",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url="https://github.com/pandarudra/sysspeaker",
