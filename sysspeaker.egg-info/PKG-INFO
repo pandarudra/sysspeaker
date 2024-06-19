@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: sysspeaker
-Version: 0.1.0
+Version: 0.1.1
 Summary: A simple python package to speak out the system messages.
 Home-page: https://github.com/pandarudra/sysspeaker
 Author: rudra_826
