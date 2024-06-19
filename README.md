@@ -1,4 +1,25 @@
-To install - pip install sysspeaker
-To import sysspeaker use - " import sysspeaker "
-To use it - " sysspeaker.speak("message") "
--> In the place of message you can use your own message
+# sysspeaker
+
+## Installation
+
+Follow the steps below to get started with sysspeaker.
+
+### 1. Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install sysspeaker.
+
+```bash
+pip install sysspeaker
+```
+
+### 2. Importing
+
+```bash
+import sysspeaker
+```
+
+### 3. Usage
+
+```bash
+sysspeaker.speak("Your message here")
+```
